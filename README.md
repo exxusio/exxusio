@@ -22,9 +22,9 @@ I'm a beginner _**Full Stack Developer**_ from Belarus.
 ## :fire: Stats :
 <table>
   <a href="https://github.com/exxusio/">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=exxusio&show_icons=true&locale=en&theme=tokyonight" />
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs?username=exxusio&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=exxusio&theme=tokyonight" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=exxusio&show_icons=true&locale=en&theme=tokyonight" />
+  <img width="26.6%" src="https://github-readme-stats.vercel.app/api/top-langs?username=exxusio&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img width="37.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=exxusio&theme=tokyonight" />
 </table>
 
 
