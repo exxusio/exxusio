@@ -32,7 +32,6 @@ I'm a beginner _**Full Stack Developer**_ from Belarus.
 ## :globe_with_meridians: Languages :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" width="45" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="45" />
   <img src="https://skillicons.dev/icons?i=angular" width="45" />
   <img src="https://skillicons.dev/icons?i=js" width="45" />
   <img src="https://skillicons.dev/icons?i=ts" width="45" />
@@ -44,7 +43,9 @@ I'm a beginner _**Full Stack Developer**_ from Belarus.
 ## :hammer_and_wrench: Technologies And Tools :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" width="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" />
   <img src="https://skillicons.dev/icons?i=docker" width="45" />
+  <img src="https://skillicons.dev/icons?i=postman" width="45" />
   <img src="https://skillicons.dev/icons?i=vscode" width="45" />
   <img src="https://skillicons.dev/icons?i=github" width="45" />
   <img src="https://skillicons.dev/icons?i=git" width="45" />
@@ -61,8 +62,11 @@ I'm a beginner _**Full Stack Developer**_ from Belarus.
 - **AutoMapper**
 - **Unit Tests**
 - **Identity**
-- **Blazor**
+- **MediatR**
+- **SignalR**
+- **Redis**
 - **LinQ**
+- **JWT**
 
 
 <i><h3 align="right"> :envelope: Connect with me :</h3></i>
